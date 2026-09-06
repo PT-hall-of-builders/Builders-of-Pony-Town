@@ -1,5 +1,5 @@
 ## CLICK [HERE]() FOR NOMINATIONS, REQUESTS, AND QUESTIONS
-## CLICK [HERE() FOR THE REMOVALS OF AN INDIVIDUAL
+## CLICK [HERE]() FOR THE REMOVALS OF AN INDIVIDUAL
 ## CLICK [HERE]() FOR CHANGES OR EDITS OF A RANK
 
 EST. 06/09/26
@@ -9,7 +9,7 @@ LATEST UPDATE: 06/09/26
 ---
 INSPIRED by the following:
 [pt-players](https://github.com/pt-players), [pt-awards](https://github.com/pt-awards), [ponytowners](https://github.com/ponytowners), [pt-walk-of-fame](https://github.com/pt-walk-of-fame), and [pt-stars](https://github.com/pt-stars)
-CREDITS to the above and those aiding in this GitHub's creation
+CREDITS to the above and those aiding in this GitHub's creation!
 
 UPDATES once a number of weeks / months
 
@@ -20,7 +20,7 @@ ALSO REFER to the Atabooks for questions, requests, and the such
 
 ## CATEGORIES! - ALPHABETIC
 ---
-POPULAR BUILDERS: 
+- POPULAR BUILDERS: 
 
 ---
 MOST DETAILED BUILDERS:
@@ -36,30 +36,4 @@ BUILD BATTLE HOSTERS:
 
 ---
 ## TITLES / LABELS - ALPHABETIC
-A
-B
-[Bob Builder](https://pin.it/2ZCeomYig) as Bob the Builder
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
-N
-O
-P
-Q
-R
-S
-T
-U
-V
-W
-X
-Y
-Z
+[Bob Builder](https://pin.it/2ZCeomYig) as Bob Builder
